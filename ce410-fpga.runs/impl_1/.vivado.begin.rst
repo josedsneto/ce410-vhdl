@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="nectx" Host="pop-os" Pid="13552" HostCore="12" HostMemory="11940112">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="nectx" Host="pop-os" Pid="17718" HostCore="12" HostMemory="11940112">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="nectx" Host="pop-os" Pid="21174" HostCore="12" HostMemory="11940112">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado" Owner="nectx" Host="pop-os" Pid="28810" HostCore="12" HostMemory="11940112">
+    </Process>
+</ProcessHandle>

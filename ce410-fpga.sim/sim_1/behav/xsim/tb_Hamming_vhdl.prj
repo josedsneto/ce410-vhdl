@@ -1,7 +1,7 @@
 # compile vhdl design source files
 vhdl xil_defaultlib  \
-"../../../../ce410-fpga.srcs/sources_1/new/Hamming.vhd" \
-"../../../../ce410-fpga.srcs/sim_1/new/tb_Hamming.vhd" \
+"../../../../ce410-fpga.srcs/sources_1/new/Hamming6.vhd" \
+"../../../../ce410-fpga.srcs/sim_1/new/tb_Hamming5.vhd" \
 
 # Do not sort compile order
 nosort

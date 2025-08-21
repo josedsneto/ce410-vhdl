@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_Hamming2_behav/xsimk -simmode gui -wdb tb_Hamming2_behav.wdb -simrunnum 0 -socket 41011
+Design successfully loaded
+Design Loading Memory Usage: 20244 KB (Peak: 20720 KB)
+Design Loading CPU Usage: 10 ms
+Simulation completed
+Simulation Memory Usage: 110180 KB (Peak: 159512 KB)
+Simulation CPU Usage: 10 ms
